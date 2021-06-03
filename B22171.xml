@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lodrs [sic] and Commons assembled in Parliament that the committee for the militia of London shall have power to impose upon all such persons as have any stocks going in trade within the line of communication to find such proportion</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22171</idno><idno type="EEBO-CITATION">12066621</idno>
+  <idno type="VID">196746</idno>
+  <idno type="EEBO-PROQUEST">2240951874</idno>
+  
+            <idno type="STC">Wing E2087</idno>
+            <idno type="OCLC">12066621</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196746)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 237:E51, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lodrs [sic] and Commons assembled in Parliament that the committee for the militia of London shall have power to impose upon all such persons as have any stocks going in trade within the line of communication to find such proportion</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>17, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Committee for the Militia of London.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196746:1"/>
+            <pb facs="tcp:196746:1"/>
+            <p> AN ORDINANCE OF THE LODRS and COMMONS Assembled in PARLIAMENT, That the Committee for the <hi>Militia</hi> of <hi>London,</hi> shall have power to impose upon all such Persons as have any stocks going in Trade, within the Line of Communication, to find such proportion of Armes, and pay such persons as have beene or shall be appointed to beare the same, as the said Committee shall thinke fit, not exceeding three foot Souldiers for any one Man.</p>
+            <p>Also to search in all suspitious places for Papists, and other ill-affected persons, expell them out of the limits a<g ref="char:EOLhyphen"/>foresaid, and sieze all Armes and Ammunition which they shall find in the Custody of any such.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi, 15 Iunii, 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the</hi> LORDS <hi>Assembled in Parlia<g ref="char:EOLhyphen"/>ment, That this Ordinance shall be forthwith Printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Brown Cler, Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON, Printed for <hi>John Wright</hi> in the Old-Bayley, <hi>Iune</hi> 17. 1644.</p>
+            <pb facs="tcp:196746:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="1" facs="tcp:196746:2"/>
+            <head>AN Ordinance of the LORDS and COMMONS Assembled in PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabbathi,</hi> 15 <hi>Junii,</hi> 1644.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers persons, within the Citie of <hi>London</hi> and parts adja<g ref="char:EOLhyphen"/>cent, within the lines of Commu<g ref="char:EOLhyphen"/>nication, and Parishes mentioned in the weekly Bills of Mortalitie, and Ham<g ref="char:EOLhyphen"/>lets of the Tower, that are not fit to beare Armes in their owne persons, yet are able and fit to find Armes, and pay others for bearing the same, but doe neglect and refuse the doing thereof.</p>
+            <p>And whereas divers Papists, and other ill-affected persons, doe lurke and hide them<g ref="char:EOLhyphen"/>selves in divers houses and places within the limits aforesaid, that hold corresponden<g ref="char:EOLhyphen"/>cie
+<pb n="2" facs="tcp:196746:3"/> with, or bring intelligence from the Ene<g ref="char:EOLhyphen"/>my, and others that gather together Armes, Ammunition, and other materialls of War, likely to be imployed to the prejudice of the Parliam nt and City.</p>
+            <p>And whereas by severall Ordinances of Parliament, power is given to the said Com<g ref="char:EOLhyphen"/>mittee for ordering the said <hi>Militia</hi> within the limits aforesaid, &amp; drawing out Forces for service abroad, &amp; that many things men<g ref="char:EOLhyphen"/>tioned in the said Ordinances to be put in execution, require the helpe and assistance of more persons in the nature of Sub-Com<g ref="char:EOLhyphen"/>mittees; Thereupon power is given to the said Committee, to make one or more Sub-Committeés within the said limits as they shall thinke fit; and for the better enabling the said Sub-Committees so made, or to be made, to performe the services therein contai<g ref="char:EOLhyphen"/>ned.</p>
+            <p>The said Lords and Commons in Par<g ref="char:EOLhyphen"/>liament assembled, doe Ordaine &amp; Declare, and be it ordained and declared, That the said Committee of the <hi>Militia</hi> of <hi>London</hi> shall have power, and are hereby Authorized, to impose upon all such persons as have any
+<pb n="3" facs="tcp:196746:3"/> Stocks going in Trade within the limits aforesaid, and absent themselves, or doe per<g ref="char:EOLhyphen"/>sonally inhabite or reside within the said li<g ref="char:EOLhyphen"/>mits, to find such proportion of Armes, and pay such persons as have beene, or shall be appoynted to bear the same as the said Com<g ref="char:EOLhyphen"/>mittee shall thinke fit, not exceeding three foot Souldiers for any one person; and such person or persons as shall disobey the com<g ref="char:EOLhyphen"/>mands and directions of the said Committee, of the <hi>Militia</hi> herein, the said Committee shall have power to impose such reasona<g ref="char:EOLhyphen"/>ble Fines upon them, or any of them, as they shall thinke fit, not exceeding the summe of forty shillings for any one offence, and for want of payment thereof, to leavie the same by distresse and sale of their goods and chat<g ref="char:EOLhyphen"/>tells, or otherwise to imprison their persons without Baile or maineprise, untill such time as they shall conforme themselves according<g ref="char:EOLhyphen"/>ly: But in case such person or persons so of<g ref="char:EOLhyphen"/>fending, doe absent themselves without the said limits, where the authority of the said Committee doth not extend, and not a suffici<g ref="char:EOLhyphen"/>ent value of his or their goods, or chattells, to be found within the said limits, where<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:196746:4"/> to leavy the said fines by distresse as a<g ref="char:EOLhyphen"/>foresaid, That then the Committeé. for Ex<g ref="char:EOLhyphen"/>aminations upon complaint made by the Committeé of the <hi>Militia,</hi> or such as they shall appoint, do forthwith grant their warrants for apprehending of such person or per<g ref="char:EOLhyphen"/>sons wheresoever they shall be, and to com<g ref="char:EOLhyphen"/>mit him or them to prison without baile or maineprize, untill he or they doe conforme themselves, or to distraine his or their goods, and bring them to <hi>London,</hi> and there sell them to pay the said fine or fines: all which fines are to be imployed to such use and purpose, for the safety and defence of this City, as the said Committeé of the <hi>Militia</hi> shall thinke fit and direct.</p>
+            <p>And it is further Ordeined that the said Committeé for the <hi>Militia</hi> shall have power, and is hereby authorised by themselves or such as they shall appoint, to search all hou<g ref="char:EOLhyphen"/>ses and places within the limits aforesaid, where the said Committeé shall have cause to suspect that any Papists are, or other per<g ref="char:EOLhyphen"/>sons that com from any of the Kings Quar<g ref="char:EOLhyphen"/>ters, or cannot give a good account of their businesse, or aboad within the limits afore<g ref="char:EOLhyphen"/>said,
+<pb n="5" facs="tcp:196746:4"/> or that have or shall discover their ill-affection to the Parliament, and likewise to search for Armes, Ammu<g ref="char:EOLhyphen"/>nition, and materials for War in the custo<g ref="char:EOLhyphen"/>dy of such Persons, and to sieze and take away the same, and to commit such persons to safe custody, or to expell them out of the limits aforesaid, if they shall see cause: and in case of resistance, the said Committeé are hereby authorised to command any consta<g ref="char:EOLhyphen"/>ble or constables to breake open any house or place within the said limits, where such resi<g ref="char:EOLhyphen"/>stance shall be made.</p>
+            <p>And it is further ordeined, that the said sub-Committees so appointed or to bee appoin<g ref="char:EOLhyphen"/>ted by the said Committeé of the <hi>Militia,</hi> shall have power, and are hereby authori<g ref="char:EOLhyphen"/>sed to cause all or any of the clauses contei<g ref="char:EOLhyphen"/>ned in this or any other of the said Ordi<g ref="char:EOLhyphen"/>nances, to be put in due execution, when &amp; as often as they shall receive directions from the said Committeé for the <hi>Militia,</hi> and all Constables, Head-boroughs, and other Officers and Souldiers are hereby requi<g ref="char:EOLhyphen"/>red to obey and execute such warrants as they from time to time shall receive from the
+<pb n="6" facs="tcp:196746:5"/> said Committeé for the <hi>Militia,</hi> or other sub-Committeés for and concerning the execution of the same accordingly: Provided that no Power hereby granted shall be extended a<g ref="char:EOLhyphen"/>gainst any Peére or Member of either of the Houses of Parliament, or any of the Assistants of the House of Peéres. And as<g ref="char:EOLhyphen"/>well the said Committee, as also their sub-Committees, and all other persons acting in the premises, according to the intent of this Ordinance, shall be saved harmelesse by Authority of both Houses of Parliament: Provided that this Ordinance shall conti<g ref="char:EOLhyphen"/>nue and be in force for the space of two mo<g ref="char:EOLhyphen"/>neths, to begin from the publishing of this Ordinance and no longer.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
